@@ -1,0 +1,10 @@
+services:
+  securelens:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+    restart: unless-stopped
+    volumes:
+      - ./models:/app/models

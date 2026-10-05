@@ -1,0 +1,31 @@
+text,label
+"I love this application",positive
+"This is amazing and works perfectly",positive
+"Excellent product highly recommended",positive
+"Great experience very satisfied",positive
+"Best purchase I have ever made",positive
+"Fantastic quality and fast delivery",positive
+"Outstanding performance and reliability",positive
+"Superb customer service and support",positive
+"Works flawlessly every single time",positive
+"Exceeded my expectations completely",positive
+"This application is okay",neutral
+"It works as expected nothing special",neutral
+"Average quality for the price",neutral
+"Neither good nor bad just fine",neutral
+"Acceptable performance overall",neutral
+"Standard features nothing more",neutral
+"Decent product does the job",neutral
+"Reasonable value for money",neutral
+"Mediocre but functional",neutral
+"Typical experience nothing remarkable",neutral
+"This application is terrible",negative
+"Worst product I have ever used",negative
+"Completely broken and unusable",negative
+"Horrible experience very disappointed",negative
+"Poor quality stopped working quickly",negative
+"Avoid this product at all costs",negative
+"Terrible customer service and support",negative
+"Waste of money and time",negative
+"Defective item never worked properly",negative
+"Extremely frustrating and unreliable",negative
